@@ -1,0 +1,64 @@
+
+                .cls-1 {
+                    font-size: 7px !important;
+                    font-weight: 600;
+                }
+
+                .cls-1,
+                .cls-3,
+                .cls-4 {
+                    fill: #000;
+                }
+
+                .cls-2 {
+                    fill: #000;
+                }
+
+                .cls-2,
+                .cls-3 {
+                    font-size: 7px !important;
+                    font-weight: 600;
+                }
+
+                .cls-5,
+                .cls-6 {
+                    fill: #e9d8c1;
+                }
+
+                .cls-7 {
+                    letter-spacing: 0em;
+                }
+
+                .cls-8 {
+                    letter-spacing: 0em;
+                }
+
+                .cls-6 {
+                    stroke: #e9d8c1;
+                    stroke-miterlimit: 10;
+                    stroke-width: 3px;
+                }
+                
+                
+.tooltipMapa {
+  position: fixed;
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+  border-radius: 6px;
+  max-width: 250px;
+  z-index: 1000;
+  display: none;
+  font-size: 14px;
+}
+
+        
+            .tooltipsMaps:hover {
+              fill: #D7181E;
+              cursor: pointer;
+            }
+           
+            .tooltipsMaps{
+              fill: #F7C600;
+              cursor: pointer;
+            }
