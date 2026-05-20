@@ -5,7 +5,7 @@ export default function Home() {
     {
       name: "Province Map Of Angola",
       image: "mapAngola.png",
-      github: "https://github.com/Bellbelliones",
+      github: "https://github.com/Bellbelliones/guzmancomponents/tree/main/src/components/Maps",
     },
   ];
 
