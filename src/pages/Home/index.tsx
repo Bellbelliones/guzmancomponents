@@ -11,7 +11,7 @@ export default function Home() {
     {
       name: "Province Map Of Angola",
       image: "mapAngola.png",
-      Link:
+      GitHub:
         "https://github.com/Bellbelliones/guzmancomponents/tree/main/src/components/Maps",
     },
   ];
@@ -271,7 +271,7 @@ export default function Home() {
                   </p>
 
                   <a
-                    href={component.Link}
+                    href={component.GitHub}
                     target="_blank"
                     className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-5 py-3 rounded-xl bg-[#CC092F] hover:bg-[#a10624] transition-all duration-300 font-medium"
                   >
