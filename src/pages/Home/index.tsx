@@ -276,7 +276,7 @@ export default function Home() {
                     className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-5 py-3 rounded-xl bg-[#CC092F] hover:bg-[#a10624] transition-all duration-300 font-medium"
                   >
                     <Link size={18} />
-                    Link Repository
+                    View Component
                   </a>
                 </div>
               </div>
