@@ -293,7 +293,7 @@ export default function Home() {
             : "border-[#DDDDDD] text-gray-600"
         }`}
       >
-        Built with React, Tailwind CSS and creativity.
+        Built with React, Tailwind CSS and creativity With Me, Rodolfo Guzman.
       </footer>
     </div>
   );
