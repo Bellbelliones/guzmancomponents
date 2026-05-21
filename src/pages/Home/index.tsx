@@ -12,7 +12,7 @@ export default function Home() {
       name: "Province Map Of Angola",
       image: "mapAngola.png",
       Link:
-        "https://Link.com/Bellbelliones/guzmancomponents/tree/main/src/components/Maps",
+        "https://github.com/Bellbelliones/guzmancomponents/tree/main/src/components/Maps",
     },
   ];
 
